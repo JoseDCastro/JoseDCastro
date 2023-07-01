@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá, é muito bom receber você em meu Readme!
 
-<!--
-**JoseDCastro/JoseDCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em primeiro gostaria de agradecer a sua visita em meu portifólio, é sempre bom conhecer novas pessoas.
 
-Here are some ideas to get you started:
+Como relacionado a este readme , meu no é José De Castro.
+Atualmente estou cursando o 3º semestre do curso de Análise e Desenvolvimento de Sistemasna Faculdade Anhanguera, com isso tenho buscado aprender além dos muros da Faculdade, e por isso estou fazendo em paralelo alguns cursos buscando ampliar meus conhecimentos e iniciar alguns projetos de estudos e pessoais.
+Devido a isso estou iniciando o desenvolvimento de um Gerenciador de Loja com algumas especificações como: cadastro de vendedores, Produtos, controle de estoque, gerenciamento de vendas, impressão de relatórios semanais e mensais...utilizando Python, Qt6 e Banco de Dados Maria DB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também estou estudando a criação de um programa destinado ao nicho de Pintores residenciais e comerciais ao qual fará e dará o resultado da quantidade do material ( tinta, grafiato, texturas...) a ser utilizado apenas com a inserção das metragens do local a ser reformado. Sei que é algo simples em seu código, mas para estudo e conhecimento é uma experiência bem válida ao meu entendimento.
+
+Outo projeto que pretendo iniciar em breve é um aplicativo de agendamento de clientes e serviços destinado a Barbearias e salões de Beleza.
+
+Assim que tiver concluido cada um estarei disponibilizando os códigos aqui para quem desejar acessar.
+
+Caso se interesse em participar de algum desses projetos é só buscar contato comigo e conversaremos.
+
+Deixei meus canais de redes sociais disponíveis no início de meu protifólio, mesmo assim vou repetí-los aqui para ficar mais fácil de acessar.
+
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
+
+
+
+
+
+
+Vamos 
