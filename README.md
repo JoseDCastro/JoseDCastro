@@ -16,12 +16,13 @@ Caso se interesse em participar de algum desses projetos é só buscar contato c
 
 Deixei meus canais de redes sociais disponíveis no início de meu protifólio, mesmo assim vou repetí-los aqui para ficar mais fácil de acessar.
 
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+https://www.linkedin/in/jose-de-castro
+
+Meu objetivo é a especialização em FullStack voltado para Desktop, controle e gerenciamento em Db e criação web.
+Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css, HTML, React.Js e Nodes.Js. Além de PHP, PostegreSQL e MariaDB. Claro que tudo com calma e dedicação para que não haja perda de tempo e sim aprimoramento.
 
 
+Bom, acho que inicialmente é isso.
 
-
-
-
-Vamos 
+Até a Próxima atualização.
+By
