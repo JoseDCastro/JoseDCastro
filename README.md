@@ -48,7 +48,7 @@ Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css
 
 </div>
 
-  ![Snake animation](https://github.com/Jpsé DCastro/blob/output/github-contribution-grid-snake.svg)
+
 Bom, acho que inicialmente é isso.
 
 Até a Próxima atualização.
