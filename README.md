@@ -1,33 +1,25 @@
 👋 Hello! Welcome to my Github profile.
-## Bem vindo ao meu perfil GitHub 👋
+
 
 ## My name is José de Castre and my nickname is "José DCastro"!
 
 **José DCastro/José DCastro** is a special repository!
 
-Firstly, I would like to thank you for visiting my portfolio, it is always good to meet new people.
-Em primeiro gostaria de agradecer a sua visita em meu portifólio, é sempre bom conhecer novas pessoas.
+Firstly, I would like to thank you for visiting my portfolio, it is always good to meet new peopl
 
 
 
 I am currently studying the 3rd semester of the Systems Analysis and Development course at Faculdade Anhanguera, with this I have sought to learn beyond the walls of the Faculty, and that is why I am taking some courses in parallel seeking to expand my knowledge and start some study and personal projects.
 Because of this, I am starting the development of a Store Manager with some specifications such as: registration of sellers, Products, stock control, sales management, printing of weekly and monthly reports... using Python, Qt6 and Maria DB Database .
 
-Tradução: Atualmente estou cursando o 3º semestre do curso de Análise e Desenvolvimento de Sistemasna Faculdade Anhanguera, com isso tenho buscado aprender além dos muros da Faculdade, e por isso estou fazendo em paralelo alguns cursos buscando ampliar meus conhecimentos e iniciar alguns projetos de estudos e pessoais.
-Devido a isso estou iniciando o desenvolvimento de um Gerenciador de Loja com algumas especificações como: cadastro de vendedores, Produtos, controle de estoque, gerenciamento de vendas, impressão de relatórios semanais e mensais...utilizando Python, Qt6 e Banco de Dados Maria DB.
 
 As inspiration, I started a project aimed at educational assistance for children with Autism Spectrum and Down Syndrome, which will not only help teachers and speech therapists in speaking, but also in personal communication and socialization. This project began as a course completion work, but since its beginning there was already a desire to expand the project, which is now being supported by CIAM (Centro Israelita de Apoio Multidisciplinar).
 All of its content will be developed in Python, SQL, AI, among other tools.
 
- Tradução: Como inspiração Iniciei um projeto destinado a auxilio educacional para crianças com Espectro Autismo e Síndrome de Down, ao qual não só auxiliará professores, fonauudiólogos(as) no exercício da fala, mas também aos mesmos na comunicação e socialização pessoal. Este projeto iniciou-se como trabalho de conclusão de curso mas desde seu início já havia o desejo de espansão do projeto que hoje está sendo apoiado pelo CIAM ( Centro Israelita de Apoio Multidisciplinar )
-Todo seu conteúdo será desenvolvido em linguagem Python, SQL, IA, entre outras ferramentas.
 
 Once you have completed each one, I will make the codes available here for anyone who wants to access them.
-Assim que tiver concluido cada um estarei disponibilizando os códigos aqui para quem desejar acessar.
 
 Caso se interesse em participar de algum desses projetos é só buscar contato comigo e conversaremos.
-
-
 
 Meu objetivo é a especialização em FullStack voltado para Desktop, controle e gerenciamento em Db e criação web.
 Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css, HTML, React.Js e Nodes.Js. Além de PHP, PostegreSQL e MariaDB. Claro que tudo com calma e dedicação para que não haja perda de tempo e sim aprimoramento.
