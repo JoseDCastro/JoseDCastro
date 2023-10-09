@@ -52,4 +52,4 @@ Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css
 Bom, acho que inicialmente é isso.
 
 Até a Próxima atualização.
-By
+
