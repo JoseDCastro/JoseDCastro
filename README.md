@@ -1,7 +1,7 @@
 👋 Hello! Welcome to my Github profile.
 
 
-## My name is José de Castre and my nickname is "José DCastro"!
+## My name is José de Castro and my nickname is "José DCastro"!
 
 **José DCastro/José DCastro** is a special repository!
 
