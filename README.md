@@ -1,23 +1,26 @@
-👋 Hello! Welcome to my Github profile.
+👋 Olá! Bem-vindo ao meu perfil no Github.
 
 
-## My name is José de Castro and my nickname is "José DCastro"!
+## Meu nome é José de Castro e meu apelido é "José DCastro"!
 
-**José DCastro/José DCastro** is a special repository!
+**José DCastro/José DCastro** é um repositório especial!
 
-Firstly, I would like to thank you for visiting my portfolio, it is always good to meet new peopl
+<div>
+          <a hreaf-"https://github.com/JoseDCastro">
+          <img height-"180cm" scr-"http://github-readme-stats.vercel.app/api?username-JoseDCastro&show_icons-true&theme-dracula&includ_all commits-true&count-private-true"/>
+          <img height-"180com" scr-"https://github-readme-stats layout-compact&langs_count-16&theme-dracula"/>
+</div>
 
-
-
-I am currently studying the 3rd semester of the Systems Analysis and Development course at Faculdade Anhanguera, with this I have sought to learn beyond the walls of the Faculty, and that is why I am taking some courses in parallel seeking to expand my knowledge and start some study and personal projects.
-Because of this, I am starting the development of a Store Manager with some specifications such as: registration of sellers, Products, stock control, sales management, printing of weekly and monthly reports... using Python, Qt6 and Maria DB Database .
-
-
-As inspiration, I started a project aimed at educational assistance for children with Autism Spectrum and Down Syndrome, which will not only help teachers and speech therapists in speaking, but also in personal communication and socialization. This project began as a course completion work, but since its beginning there was already a desire to expand the project, which is now being supported by CIAM (Centro Israelita de Apoio Multidisciplinar).
-All of its content will be developed in Python, SQL, AI, among other tools.
+Primeiramente gostaria de agradecer por visitar meu portfólio, é sempre bom conhecer gente nova
 
 
-Once you have completed each one, I will make the codes available here for anyone who wants to access them.
+
+Atualmente estou cursando o 3º semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade Anhanguera, com isso tenho buscado aprender além dos muros da Faculdade, e por isso estou cursando alguns cursos paralelamente buscando ampliar meus conhecimentos e começar alguns estudos e projetos pessoais.
+Por conta disso, estou iniciando o desenvolvimento de um Gerente de Loja com algumas especificações como: cadastro de vendedores, Produtos, controle de estoque, gestão de vendas, impressão de relatórios semanais e mensais... utilizando Python, Qt6 e Banco de Dados Maria DB.
+
+
+Como inspiração, iniciei um projeto voltado ao atendimento educacional de crianças com Espectro Autista e Síndrome de Down, que ajudará não só professores e fonoaudiólogos na fala, mas também na comunicação pessoal e na socialização. Este projeto começou como um trabalho de conclusão de curso, mas desde o seu início já existia o desejo de ampliar o projeto, que agora conta com o apoio do CIAM (Centro Israelita de Apoio Multidisciplinar).
+Todo o seu conteúdo será desenvolvido em Python, SQL, AI, entre outras ferramentas.
 
 Caso se interesse em participar de algum desses projetos é só buscar contato comigo e conversaremos.
 
@@ -31,7 +34,7 @@ Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css
 ## Estou Estudando
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
           
 
 
