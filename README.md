@@ -1,15 +1,45 @@
 👋 Olá! Bem-vindo ao meu perfil no Github.
 
 
-## Meu nome é José de Castro e meu apelido é "José DCastro"!
+## Meu nome é José de Castro e meu apelido é "José DCastro"!           
 
-**José DCastro/José DCastro** é um repositório especial!
 
-<div>
-          <a hreaf-"https://github.com/JoseDCastro">
-          <img height-"180cm" scr-"http://github-readme-stats.vercel.app/api?username-JoseDCastro&show_icons-true&theme-dracula&includ_all commits-true&count-private-true"/>
-          <img height-"180com" scr-"https://github-readme-stats layout-compact&langs_count-16&theme-dracula"/>
-</div>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDCastro&show_icons=true&theme=transparent) 
+
+
+</p>
+  <p align="center">
+    <a href="/docs/readme_fr.md">Français </a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+    ·
+    <a href="/docs/readme_es.md">Español</a>
+    ·
+    <a href="/docs/readme_de.md">Deutsch</a>
+    ·
+    <a href="/docs/readme_ja.md">日本語</a>
+    ·
+    <a href="/docs/readme_it.md">Italiano</a>
+    ·
+    <a href="/docs/readme_kr.md">한국어</a>
+    ·
+    <a href="/docs/readme_nl.md">Nederlands</a>
+    ·
+    <a href="/docs/readme_np.md">नेपाली</a>
+    ·
+    <a href="/docs/readme_tr.md">Türkçe</a>
+  </p>
+  </p>
+
+
+
+
+
+
+
 
 Primeiramente gostaria de agradecer por visitar meu portfólio, é sempre bom conhecer gente nova
 
@@ -24,25 +54,25 @@ Todo o seu conteúdo será desenvolvido em Python, SQL, AI, entre outras ferrame
 
 Caso se interesse em participar de algum desses projetos é só buscar contato comigo e conversaremos.
 
-Meu objetivo é a especialização em FullStack voltado para Desktop, controle e gerenciamento em Db e criação web.
+Meu objetivo é a especialização em FullStack voltado para Desktop e Mobile controle e gerenciamento em Db e criação web.
 Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css, HTML, React.Js e Nodes.Js. Além de PHP, PostegreSQL e MariaDB. Claro que tudo com calma e dedicação para que não haja perda de tempo e sim aprimoramento.
 
 ## Ferramentas e Tecnologias
 
 
-
 ## Estou Estudando
-
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
           
 
-
 ## Contatos:
 
-<a href="https://instagram.com/jose.de.castr.oficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/Jose D´Castro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/jose.de.castr.oficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/Jose D´Castro" target="_blank">  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a><a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 <div>
