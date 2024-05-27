@@ -1,7 +1,7 @@
 👋 Olá! Bem-vindo ao meu perfil no Github.
 
 
-## Meu nome é José de Castro e meu apelido é "José DCastro"!           
+## Meu nome é José de Castro           
 
 
 
@@ -17,33 +17,23 @@
 
 
 
+Primeiramente, gostaria de agradecer por visitar meu portfólio. É sempre bom conhecer novas pessoas e fazer novos contatos e amizades.
 
 
-Primeiramente gostaria de agradecer por visitar meu portfólio, é sempre bom conhecer gente nova
+Como descrito em meu portifólio, me chamo Jose. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera, mas já tenho como novo projeto a Pós-Graduação pela PUC-Minas no curso de AUTOMAÇÃO DE PROCESSOS RPA E HIPERAUTOMAÇÃO, mais uma área que tem me chamado muita atenção e interesse, ainda mais com a escalada da AI a qual temos presenciados em todas as áreas não só voltadas à tecnologia, mas também nas coisas mais simples da vida.
+
+Tenho me aplicado ao estudo mais aprofundado da língua Python e com a  aplicação da mesma em suas diferentes áreas além do segmento voltado a Dados. Para isso, estou cursando junto à Hastag o curso completo de Python,em conjunto a  plataforma da Microsoft Learn.
+
+Já havia iniciado anteriormente este curso, mas como na faculdade temos contato com tantas áreas da tecnologia, ficou mais claro para mim agora em qual linha de atuação irei me dedicar.
+
+Também estou estudando tecnologias como Black Box AI e BOTCITY, na  buscando por opções para um desenvolvimento mais robusto e consolidado em meus futuros projetos.
+
+Pela minha idade , hoje, viso uma carreira Freelancer, mas também estou aberto a participação em projetos em parceria, ou em equipes de desesnvolvimento. Afinal todo tipo de experiência é agregadora para crescermos com pessoa e profíssional.
 
 
 
-Atualmente estou cursando o 3º semestre do curso de Análise e Desenvolvimento de Sistemas da Faculdade Anhanguera, com isso tenho buscado aprender além dos muros da Faculdade, e por isso estou cursando alguns cursos paralelamente buscando ampliar meus conhecimentos e começar alguns estudos e projetos pessoais.
-Por conta disso, estou iniciando o desenvolvimento de um Gerente de Loja com algumas especificações como: cadastro de vendedores, Produtos, controle de estoque, gestão de vendas, impressão de relatórios semanais e mensais... utilizando Python, Qt6 e Banco de Dados Maria DB.
 
 
-Como inspiração, iniciei um projeto voltado ao atendimento educacional de crianças com Espectro Autista e Síndrome de Down, que ajudará não só professores e fonoaudiólogos na fala, mas também na comunicação pessoal e na socialização. Este projeto começou como um trabalho de conclusão de curso, mas desde o seu início já existia o desejo de ampliar o projeto, que agora conta com o apoio do CIAM (Centro Israelita de Apoio Multidisciplinar).
-Todo o seu conteúdo será desenvolvido em Python, SQL, AI, entre outras ferramentas.
-
-Caso se interesse em participar de algum desses projetos é só buscar contato comigo e conversaremos.
-
-Meu objetivo é a especialização em FullStack voltado para Desktop e Mobile controle e gerenciamento em Db e criação web.
-Para isso, inicialmente estou focando no estudo em Python, Java, JavaScript, Css, HTML, React.Js e Nodes.Js. Além de PHP, PostegreSQL e MariaDB. Claro que tudo com calma e dedicação para que não haja perda de tempo e sim aprimoramento.
-
-## Ferramentas e Tecnologias
-
-
-## Estou Estudando
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
           
