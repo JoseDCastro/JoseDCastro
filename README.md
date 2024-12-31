@@ -4,34 +4,18 @@
 ## Meu nome é José de Castro           
 
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDCastro&show_icons=true&theme=transparent) 
-
-
-
-
-
-
-
-
-
 Primeiramente, gostaria de agradecer por visitar meu portfólio. É sempre bom conhecer novas pessoas e fazer novos contatos e amizades.
 
 
-Como descrito em meu portifólio, me chamo Jose. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera, mas já tenho como novo projeto a Pós-Graduação pela PUC-Minas no curso de AUTOMAÇÃO DE PROCESSOS RPA E HIPERAUTOMAÇÃO, mais uma área que tem me chamado muita atenção e interesse, ainda mais com a escalada da AI a qual temos presenciados em todas as áreas não só voltadas à tecnologia, mas também nas coisas mais simples da vida.
+Como descrito em meu portifólio, me chamo Jose. Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Anhanguera, mas já tenho como novo projeto a Pós-Graduação em IA e Machine Learn, penso em aplicar meus conhecimentos na área de RPA e controle de membros Robóticos para Amputados deido escalada da AI a qual temos presenciados em todas as áreas não só voltadas à tecnologia, mas também nas coisas mais simples da vida.
 
-Tenho me aplicado ao estudo mais aprofundado da língua Python e com a  aplicação da mesma em suas diferentes áreas além do segmento voltado a Dados. Para isso, estou cursando junto à Hastag o curso completo de Python,em conjunto a  plataforma da Microsoft Learn.
+Tenho me aplicado ao estudo mais aprofundado da línguagem Python e com a  aplicação da mesma em suas diferentes áreas além do segmento voltado a Dados. Para isso, estou cursando junto a COD3R o curso completo de Python,em conjunto a  plataforma da Microsoft Learn no curso de IA.
 
 Já havia iniciado anteriormente este curso, mas como na faculdade temos contato com tantas áreas da tecnologia, ficou mais claro para mim agora em qual linha de atuação irei me dedicar.
 
-Também estou estudando tecnologias como Black Box AI e BOTCITY, na  buscando por opções para um desenvolvimento mais robusto e consolidado em meus futuros projetos.
+Também estou estudando tecnologias como Black Box AI e BOTCITY e Blue Prism, na  busca por opções para um desenvolvimento mais robusto e consolidado em meus futuros projetos.
 
-Pela minha idade , hoje, viso uma carreira Freelancer, mas também estou aberto a participação em projetos em parceria, ou em equipes de desesnvolvimento. Afinal todo tipo de experiência é agregadora para crescermos com pessoa e profíssional.
-
-
-
+Pela minha idade , hoje, viso uma carreira em uma empresa onde possa adquirir e ampliar meus conhecimentos de modo prático, mas também estou aberto a participação em projetos em parceria, sejam open source, priadas, ou em equipes de desesnvolvimento. Afinal todo tipo de experiência é agregadora para crescermos como pessoa e profíssional. Sendo assim projetei iniciar com o desenvolvimento e inclusão de alguns projetos pessoais neste portifólio neste ano de 2025.
 
 
 
